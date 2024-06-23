@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=header" alt=" Waves">
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Jackson, Desenvolvedor Front-End</h1>
 
-<h3>Olá, eu sou Jackson programador Front-End :smiley::sunglasses:</h3>  
 
 <br>
 <p>Sou apaixonado por tecnologia e atualmente trabalho e estudo algumas tecnologias bem conhecidas no mercado...</p>
@@ -11,9 +12,18 @@
  </div><br>
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonRMS)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
+<div>
+   
+   <br><br>
+   <p align="center">
+     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacksonRMS&theme=radical" />
+   </p>
+</div>
+
+<div align="left">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JacksonRMS&rank_icon=github&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=66000000&hide_border=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRMS&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&bg_color=66000000&theme=dracula"/>
+</div>
 
 <h4>Conecte-se a mim</h4>
 <p>
@@ -24,3 +34,5 @@
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=footer"/>
